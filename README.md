@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Introduction
   한국디지털미디어고등학교 18기 조민수
-- 🌱 I’m currently learning C# / Asp.net
+- 🌱 I’m currently learning React with Webpack
 - 💻 I'm interested in JavaScript ecosystem (Mostly backend)
 
 ### Top Langs
