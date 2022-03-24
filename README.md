@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
 ### Introduction
-  한양대학교 ERICA 캠퍼스 전자공학부 22학번 조민수
-  한국디지털미디어고등학교 18기
+= 한양대학교 ERICA 전자공학부 22학번 조민수
+- 한국디지털미디어고등학교 18기
 - 🌱 I’m currently learning C++
 - 💻 I'm interested in JavaScript ecosystem (Mostly backend)
 
