@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 한양대학교 ERICA 전자공학부 22학번
 - 한국디지털미디어고등학교 18기 웹프로그래밍과
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java/Kotlin
 - 💻 I'm interested in JavaScript ecosystem (Mostly backend)
 
 ### Top Langs
