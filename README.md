@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### Introduction
 
+- 조민수
 - 한양대학교 ERICA 전자공학부 22학번
 - 한국디지털미디어고등학교 18기 웹프로그래밍과
 - 🌱 I’m currently learning Java/Kotlin
