@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 한양대학교 ERICA 전자공학부 22학번
 - 한국디지털미디어고등학교 18기 웹프로그래밍과
 - 🌱 Java를 학습하는 중입니다.
-- 💻 백엔드 분야에 관심을 가지고 공부중입니다.
+- 💻 Web, 특히 백엔드 분야에 관심을 가지고 공부중입니다.
 - ⚡ 소프트웨어뿐만 아니라 하드웨어에도 관심이 있습니다.
 - 📝 [블로그](https://blog.naver.com/minsoo0715)에 주로 problem solving 관련 글을 올리고 있습니다.
 
