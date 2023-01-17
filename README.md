@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   - ⚡ 소프트웨어뿐만 아니라 하드웨어에도 관심이 있습니다.
   - 📝 [블로그](https://blog.naver.com/minsoo0715)에 주로 problem solving 관련 글을 올리고 있습니다.
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minsoo0715&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minsoo0715&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minsoo0715&theme=dracula&utcOffset=8)
+![](https://raw.githubusercontent.com/minsoo0715/minsoo0715/main/profile-summary-card-output/dracula/0-profile-details.svg)
+![](https://raw.githubusercontent.com/minsoo0715/minsoo0715/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/minsoo0715/minsoo0715/main/profile-summary-card-output/dracula/4-productive-time.svg)
+
