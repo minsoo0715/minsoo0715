@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   - 📝 [블로그](https://blog.naver.com/minsoo0715)에 주로 problem solving 관련 글을 올리고 있습니다.
 
 ### Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoo0715&layout=compact&langs_count=8&theme=vue&hide=EJS,HTML,CSS)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsoo0715&show_icons=true&theme=radical&hide_rank=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minsoo0715&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minsoo0715&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minsoo0715&theme=dracula&utcOffset=8)
