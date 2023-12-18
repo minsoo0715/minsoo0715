@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Introduction
 
 - 조민수
-  - 한양대학교 ERICA 전자공학부 22학번
+  - 한양대학교 ERICA 전자공학부 22학번 (컴퓨터학부 다중전공)
   - 한국디지털미디어고등학교 18기 웹프로그래밍과
   - 🌱 Java/Spring Boot를 학습중입니다.
   - 💻 웹, 특히 백엔드 분야에 관심을 가지고 공부중입니다.
